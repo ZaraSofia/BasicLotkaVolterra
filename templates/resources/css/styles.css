@@ -49,3 +49,7 @@ body {
 .introduction, .explanation, .results, .citations, .further h1{
     font-size: 200 px;
 }
+.introduction, .explanation, .results, .citations, .further p{
+    text-decoration-line: underline;
+    text-decoration-color: purple;
+}
