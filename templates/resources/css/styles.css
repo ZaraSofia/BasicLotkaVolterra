@@ -49,7 +49,6 @@ body {
 .introduction, .explanation, .results, .citations, .further h1{
     font-size: 200 px;
 }
-.introduction, .explanation, .results, .citations, .further p{
-    text-decoration-line: underline;
+u{
     text-decoration-color: purple;
 }
